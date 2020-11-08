@@ -1,0 +1,13 @@
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\bin\Debug\DangNhapGmaill.exe.config
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\bin\Debug\DangNhapGmaill.exe
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\bin\Debug\DangNhapGmaill.pdb
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\bin\Debug\WebDriver.dll
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\bin\Debug\WebDriver.xml
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.csprojAssemblyReference.cache
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.Form1.resources
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.Properties.Resources.resources
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.csproj.GenerateResource.cache
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.csproj.CoreCompileInputs.cache
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.csproj.CopyComplete
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.exe
+C:\Users\DoDucHai\source\repos\DangNhapGmaill\DangNhapGmaill\obj\Debug\DangNhapGmaill.pdb
